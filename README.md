@@ -11,4 +11,4 @@
 
  ​   ​      ​      ​       ​      ​      :desktop_computer: Project Preview:
 
-![](h:\Users\Vincenzo\Documents\Esercitazioni\js-jq-ajax-api-musica\img\Cattura.PNG)
+<img src="img/Cattura.PNG" style="zoom: 25%;" />
