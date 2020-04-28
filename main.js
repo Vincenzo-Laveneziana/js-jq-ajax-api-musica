@@ -8,7 +8,6 @@ $(document).ready(function() {
   var template = Handlebars.compile(source);
 	
 
-
 	$.ajax({
 		url: "https://flynn.boolean.careers/exercises/api/array/music",
 		method: "GET",
@@ -24,23 +23,15 @@ $(document).ready(function() {
 					author:dati[i].author,
 					year: dati[i].year,
 				}
+
 				var html = template(disco);
 				playlist.append(html)
 
-			}
-
+			}//fine for
 		},
 		error: function (){
 			console.log("Errore chiamata API");
 		}
 	});
 
-
-
-
-
-
-
-
-	
-});
+});//fine ready
