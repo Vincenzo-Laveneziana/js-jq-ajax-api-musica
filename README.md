@@ -11,8 +11,4 @@
 
  ​   ​      ​      ​       ​      ​      :desktop_computer: Project Preview:
 
-<<<<<<< HEAD
-<img src="img/Cattura.PNG" style="zoom: 25%;" />
-=======
-![](img/Cattura.PNG)
->>>>>>> master
+<img src="img\Cattura.PNG" style="zoom:25%;" />
