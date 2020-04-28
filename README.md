@@ -11,7 +11,7 @@
 
 ​ ​ ​ :desktop_computer: Project Preview:
 
-​ ​ ​ <img src="img/Cattura.PNG" width= "700px">
+​ ​ ​ <img src="img/Cattura.PNG" width= "1000px">
 
 
 #
