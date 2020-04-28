@@ -26,12 +26,31 @@ header img {
     margin-top: 10px;
 }
 
+.select-generi{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.select-generi select{
+    width: 200px;
+    height: 30px;
+    text-align-last: center;
+    background: rgb(46, 58, 70);
+    padding-left: 10px;
+    color: grey;
+    border-radius: 10px;
+    border: 2px solid grey;
+    outline: none;
+    cursor: pointer;
+}
+
 .cds-container {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 .cd {
