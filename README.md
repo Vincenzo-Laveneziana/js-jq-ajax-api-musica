@@ -1,6 +1,6 @@
-#         js-jq-ajax-api-musica **:open_file_folder:**
+# js-jq-ajax-api-musica **:open_file_folder:**
 
-​                                          :man_student:--Task:
+:man_student:--Task:
 
 - Attraverso una chiamata ajax all’Api di boolean avremo a disposizione una decina di dischi musicali. 
 
@@ -9,6 +9,15 @@
 
 - Bonus: Creare una select con i seguenti generi: pop, rock, metal e jazz. In base a cosa scegliamo nella select vedremo i corrispondenti cd.
 
- ​   ​      ​      ​       ​      ​      :desktop_computer: Project Preview:
+​ ​ ​ :desktop_computer: Project Preview:
 
-<img src="img\Cattura.PNG" style="zoom:25%;" />
+​ ​ ​ <img src="img/Cattura.PNG" width= "700px">
+
+
+#
+
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​:eyes: Visit My Github Profile to see other [__Project__](https://github.com/Vincenzo-Laveneziana?tab=repositories):man_technologist: 
+#
+
+
+
